@@ -20,7 +20,7 @@
 /compatibility.html     /core/compatibility
 /mount.html             /core/mount
 /jest.html              /testing/jest
-/migrating.html         /get-started/migrating
+/migrating.html         /migrations/from-v2
 /recipes/esbuild.html   /developing/esbuild
 /recipes/ava.html       /testing/ava
 /recipes/debugger.html  /developing/debugger
@@ -46,7 +46,7 @@
 /compatibility          /core/compatibility
 /mount                  /core/mount
 /jest                   /testing/jest
-/migrating              /get-started/migrating
+/migrating              /migrations/from-v2
 /recipes/esbuild        /developing/esbuild
 /recipes/ava            /testing/ava
 /recipes/debugger       /developing/debugger
